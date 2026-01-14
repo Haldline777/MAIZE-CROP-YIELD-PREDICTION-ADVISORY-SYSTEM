@@ -1,0 +1,10 @@
+﻿Domain Code,Domain,Area Code (M49),Area,Element Code,Element,Item Code (CPC),Item,Year Code,Year,Unit,Value,Flag,Flag Description,Note
+"QCL","Crops and livestock products","404","Kenya","5312","Area harvested","0112","Maize (corn)","2021","2021","ha","2168603","A","Official figure",""
+"QCL","Crops and livestock products","404","Kenya","5412","Yield","0112","Maize (corn)","2021","2021","kg/ha","1523.8","A","Official figure",""
+"QCL","Crops and livestock products","404","Kenya","5510","Production","0112","Maize (corn)","2021","2021","t","3304430","A","Official figure",""
+"QCL","Crops and livestock products","404","Kenya","5312","Area harvested","0112","Maize (corn)","2022","2022","ha","2113520","A","Official figure",""
+"QCL","Crops and livestock products","404","Kenya","5412","Yield","0112","Maize (corn)","2022","2022","kg/ha","1458.3","A","Official figure",""
+"QCL","Crops and livestock products","404","Kenya","5510","Production","0112","Maize (corn)","2022","2022","t","3082220","A","Official figure",""
+"QCL","Crops and livestock products","404","Kenya","5312","Area harvested","0112","Maize (corn)","2023","2023","ha","2430014","A","Official figure",""
+"QCL","Crops and livestock products","404","Kenya","5412","Yield","0112","Maize (corn)","2023","2023","kg/ha","1763.4","A","Official figure",""
+"QCL","Crops and livestock products","404","Kenya","5510","Production","0112","Maize (corn)","2023","2023","t","4285206","A","Official figure",""
